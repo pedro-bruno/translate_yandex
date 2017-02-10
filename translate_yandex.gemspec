@@ -12,7 +12,6 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{translator like google translate}
   spec.description   = %q{gem maker tutorial, this is a example.}
   spec.homepage      = "http://www.ipslorem.com"
-  spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
