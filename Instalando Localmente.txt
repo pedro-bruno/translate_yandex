@@ -1,0 +1,9 @@
+INSTALANDO A GEM
+
+Para podermos usar a Gem dentro de um projeto Rails por exemplo nós precisamos instalar ela. Para instalar rode:
+
+gem build translate_yandex.gemspec
+
+Agora rode:
+
+gem install translate_yandex-0.1.0.gem
